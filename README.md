@@ -1,5 +1,7 @@
 ## Scrabble highscores
 
+Pour voir la [page web](https://cerisara.github.io/ScrabbleHighscores/) associée à ce répo.
+
 This is just an *Hall of fame* score sheet for use at our family when playing Scrabble.
 
 | Preset | 0 | 1 | 2 | 3 | 4 |
